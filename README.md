@@ -1,8 +1,6 @@
 # Cardiac-T2-Bull-s-Eye-Segmentation-and-AHA-Regional-Quantification
-MATLAB workflow for interactive MRI analysis using ROI-based segmentation, AHA-style bull’s-eye mapping, QA overlays, and segment-wise export. Showcasing image processing, manual annotation, geometric region mapping, visualization, debugging, and reproducible quantitative analysis pipeline design.
-# Cardiac T2* Bull’s-Eye Analysis and AHA Segment Mapping
 
-A MATLAB workflow for interactive cardiac MRI analysis that converts T2* mapping data into AHA-style bull’s-eye visualizations with slice-wise QA overlays and segment-wise quantitative export.
+MATLAB workflow for interactive MRI analysis using ROI-based segmentation, AHA-style bull’s-eye mapping, QA overlays, and segment-wise export. Showcasing image processing, manual annotation, geometric region mapping, visualization, debugging, and reproducible quantitative analysis pipeline design.
 
 ## Core technical components
 
